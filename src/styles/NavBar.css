@@ -2,11 +2,11 @@
     width: 250px;
     background-color: #f4f4f4;
     transition: width 0.3s;
-    overflow: hidden; /* Hides content when the panel is closed */
+    overflow: hidden; 
   }
   
   .nav-panel.closed {
-    width: 50px; /* Width when closed */
+    width: 50px; 
   }
   
   .toggle-button {
@@ -32,7 +32,7 @@
   }
   
   li:hover {
-    background-color: #e2e2e2; /* Highlight on hover */
+    background-color: #e2e2e2; 
   }
   
   .add-budget-button {
@@ -42,11 +42,11 @@
     border-radius: 5px;
     padding: 10px 15px;
     cursor: pointer;
-    margin: 10px 15px; /* Add margin for spacing */
+    margin: 10px 15px; 
     font-size: 16px;
   }
   
   .add-budget-button:hover {
-    background-color: #0056b3; /* Darker shade on hover */
+    background-color: #0056b3; 
   }
   

@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
-import Navbar from './components/Navbar'; // Import the Navbar component
-import './styles/App.css'; // Ensure you have some basic styles
+import Navbar from './components/Navbar'; 
+import './styles/App.css'; 
 
 const App = () => {
   const [isNavOpen, setIsNavOpen] = useState(true);

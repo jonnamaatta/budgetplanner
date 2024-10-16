@@ -1,5 +1,5 @@
 import React from 'react';
-import '../styles/Navbar.css'; // Make sure to create a CSS file for styling the Navbar
+import '../styles/Navbar.css'; 
 
 const Navbar = ({ isNavOpen, toggleNav }) => {
   return (
