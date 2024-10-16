@@ -1,0 +1,58 @@
+{
+  "2024": {
+    "September": {
+      "income": {
+        "salary": 4000
+      },
+      "expenses": {
+        "needs": {
+          "housing": 1000,
+          "groceries": 300,
+          "bills": 200
+        },
+        "wants": {
+          "restaurants": 150,
+          "clothing": 100,
+          "beauty": 50
+        }
+      },
+      "savings": 2200
+    },
+    "October": {
+      "income": {
+        "salary": 4100
+      },
+      "expenses": {
+        "needs": {
+          "housing": 1000,
+          "groceries": 320,
+          "bills": 210
+        },
+        "wants": {
+          "restaurants": 160,
+          "clothing": 90,
+          "beauty": 70
+        }
+      },
+      "savings": 2250
+    },
+    "November": {
+      "income": {
+        "salary": 4200
+      },
+      "expenses": {
+        "needs": {
+          "housing": 1000,
+          "groceries": 310,
+          "bills": 220
+        },
+        "wants": {
+          "restaurants": 140,
+          "clothing": 110,
+          "beauty": 80
+        }
+      },
+      "savings": 2350
+    }
+  }
+}
