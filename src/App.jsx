@@ -12,9 +12,8 @@ const App = () => {
   return (
     <div style={{ display: 'flex', height: '100vh' }}>
       <Navbar isNavOpen={isNavOpen} toggleNav={toggleNav} />
-
       <div style={{ flex: 1, padding: '20px' }}>
-        <h1>Welcome</h1>
+        <h1 className="page-title">Welcome</h1>
       </div>
     </div>
   );

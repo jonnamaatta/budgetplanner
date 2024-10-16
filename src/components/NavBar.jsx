@@ -7,10 +7,11 @@ const Navbar = ({ isNavOpen, toggleNav }) => {
       <button className="toggle-button" onClick={toggleNav}>
         {isNavOpen ? '←' : '→'}
       </button>
-      <h2>My Budgets</h2>
+      <h2 className="nav-heading">🎯 Dashboard</h2>
+      <h2 className="nav-heading">🗂️ My Budgets</h2>
       <ul>
-        <li>March 2024</li>
         <li>August 2024</li>
+        <li>September 2024</li>
       </ul>
       <button className="add-budget-button">+ Add Budget</button>
     </div>
